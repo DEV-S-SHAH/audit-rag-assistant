@@ -40,6 +40,15 @@ audit-rag-assistant
 ```
 
 ---
+## Live Application
+
+The application is deployed and publicly accessible using Streamlit Community Cloud.
+
+You can access the live application here:
+
+https://dev-s-shah-audit-rag-assistant.streamlit.app/
+
+This allows users to interact with the Audit RAG Assistant directly from the browser without installing any dependencies locally.
 
 ## Installation
 
